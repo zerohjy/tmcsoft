@@ -4,3 +4,4 @@ my new git
 20141023
 creating a new branch is quick AND simple
 haha
+linshi
